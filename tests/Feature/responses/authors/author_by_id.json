@@ -1,0 +1,23 @@
+{
+    "data": {
+        "id": "a1c7c5a5-9f5c-4f6b-8a0b-1c2b3a4d5e6f",
+        "name": "Test 1",
+        "bio": "Test bio 1",
+        "birth_date": "2000-01-01",
+        "created_at": "2020-01-01T00:00:00.000000Z",
+        "updated_at": "2020-01-01T00:00:00.000000Z",
+        "deleted_at": null,
+        "books": [
+            {
+                "id": "abc7c5a5-9f5c-4f6b-8a0b-1c2b3a4d5e6f",
+                "title": "Book 1",
+                "description": "Description 1",
+                "publish_date": "2024-08-24",
+                "author_id": "a1c7c5a5-9f5c-4f6b-8a0b-1c2b3a4d5e6f",
+                "created_at": "2024-08-24T10:00:00.000000Z",
+                "updated_at": "2024-08-24T10:00:00.000000Z",
+                "deleted_at": null
+            }
+        ]
+    }
+}
