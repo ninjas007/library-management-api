@@ -43,5 +43,4 @@
 - To specific test u can using filter. Example: `php artisan test --filter=BookTest`.
 
 ## Write-up
-<!-- get link -->
-[![Write-up]](https://github.com/ninjas007/library-management/blob/main/Writeup.docx)
+[![Write-up Doc]](https://github.com/ninjas007/library-management-api/blob/main/Writeup.docx)
